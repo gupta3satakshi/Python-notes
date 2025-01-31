@@ -1,0 +1,43 @@
+The role of Python Virtual Machine (PVM) is to convert the byte code instructions into machine code so that the computer can execute those machine code instructions and display the final output. To carry out this conversion, PVM is equipped with an interpreter. The interpreter converts the byte code into machine code and sends that machine code to the computer processor for execution. Since interpreter is playing the main role, often the Python Virtual Machine is also called an interpreter.
+
+Frozen binaries bundles together the byte code of our program files, along with the PVM interpreter and any Python support files our program needs, into a single package, a single binary executable program like .exe file on Windows. In other words, the byte code and PVM are merged into a single component.
+
+Flavors of Python refers to the different Python compilers, such as 1. CPython, 2. Jython, 3. PyPy, 4. IronPython, 5. RubyPython, 6. Pythonxy, 7. StacklessPython, 8. AnacondaPython
+
+Memory management in Python involves a private heap containing all Python objects and data structures,
+There are two types of memory allocation in Python, static and dynamic. 1. Static memory, 2. Dynamic memory.
+
+Comparisons between Java and Python
+
+Parameter           Python                                                                                      Java
+Code                * Python has less lines of code.                                                            *Java has longer lines of code.
+Framework           * Compare to JAVA, Python has lower number of Frameworks.                                   * Popular ones are DJango, Flask. Java has large number of 
+                                                                                                                  Frameworks. Popular ones are Spring, Hibernate, etc.
+Syntax              * Syntax is easy to remember almost similar to human language.                              * Syntax is complex as it throws error if you miss semicolon 
+                                                                                                                  or curly braces.
+Key Features        * Less line no of code, Rapid deployment and dynamic typing.                                * Self memory management, Robust, Platform independent
+Speed               * Python is slower since it uses interpreter and also determines the data type at run time. *Java is faster in speed as compared to python.
+Databases           *Python’s database access layers are weaker than Java’s JDBC. This is why it rarely used    * (JDBC)Java Database Connectivity is most 
+                     in enterprises.                                                                              popular and widely used to connect with database.
+Machine Learning    *Tensorflow, Pytorch.                                                                       * Weka, Mallet, Deeplearning4j, MOA
+Libraries
+Practical Agility   * Python has always had a presence in the agile space and has grown in popularity for many  * Java enjoys more consistent refactoring support than Python 
+                      reasons, including the rise of the DevOps movement.                                         thanks on one hand to its static type system which makes 
+                                                                                                                  automated refactored more predictable and reliable, and on 
+                                                                                                                  the other to the prevalence of IDEs in Java development .
+
+
+Comparisons between C and Python
+
+    C                                                                                    Python
+
+1   C is mainly used for hardware related applications.                                  Python is general purpose programming language.
+2   Follows an imperative programming model.                                             Follows object-oriented programming language
+3   Pointers available in C.                                                             No pointers functionality available.
+4   C is compiled.                                                                       Python is interpreted.
+5   A limited number of built-in functions.                                              Large library of built-in functions.
+6   Code execution is faster than python.                                                Slower compared to C as python has garbage collection.
+7   Implementing data structures required its functions to be explicitly implemented.    Gives ease of implementing data structures with built-in insert, append functions.
+8   It is compulsory to declare the variable type in C.                                  No need to declare a type of variable.
+9   C program syntax is harder than python.                                              Python programs are easier to learn, write and read.
+10  In line, an assignment is allowed.                                                   In line, assignment gives an error. E.g. a=5 gives an error in python.
