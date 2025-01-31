@@ -1,0 +1,5 @@
+Comments in Python : Comments in Python are identified with a hash symbol, #, and extend to the end of the line. Hash characters in a string are not considered comments, however. There are three ways to write a comment - as a separate line, beside the corresponding statement of code, or as a multi-line comment block.
+
+Docstrings :Python provides an in-built feature called docstrings for commenting on modules, methods, functions, objects, and classes. They are written in the first line after defining a module, function, method, etc., using three quotation marks (‘’ or “”). If you do not use it in the first line, the interpreter will not take it as a docstring. You can also access docstrings using the __doc__ attribute.
+
+How Python Sees Variables : Python is a dynamically typed language, meaning Python recognizes the type of variable automatically . Therefore, the programmer does not need to define the data type when defining the variable. Python discerns the type of the variable from the value it is assigned.
