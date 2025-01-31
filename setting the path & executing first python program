@@ -1,0 +1,36 @@
+Steps for creating First Python Program
+
+Step 1) Open PyCharm Editor. You can see the introductory screen for PyCharm. To create a new project, click on “Create New Project”.
+Step 2) You will need to select a location.
+Step 3) Now Go up to the “File” menu and select “New”. Next, select “Python File”.
+Step 4) A new pop up will appear. Now type the name of the file you want (Here we give “HelloWorld”) and hit “OK”.
+Step 5) Now type a simple program – print (‘Hello World!’).
+Step 6) Now Go up to the “Run” menu and select “Run” to run your program.
+Executing a Python Program
+
+Python programmers must know every possible way to run the Python scripts or code. This is the only way to verify whether code is working as we want. Python interpreter is responsible for executing the Python scripts. Python interpreter is a piece of software which works between the Python program and computer hardware. Here we are describing the series of ways to run Python scripts.
+
+*The operating system command-line or terminal.
+* The Python interactive mode.
+* The IDE or Text editor
+* The file manager of system.
+
+Setting the Path to Python
+
+Steps for Setting the Path in Python:
+1. Right click on My Computer and click on properties.
+2. Click on Advanced System settings
+3. Click on Environment Variable tab.
+4. Click on new tab of user variables.
+5. Write path in variable name
+6. Copy the path of Python folder
+7. Paste path of Python in variable value.
+8. Click on Ok button
+9. Click on Ok button:
+
+Getting Help in Python: The Python help function is used to display the documentation of modules, functions, classes, keywords, etc.
+Syntax for help function - help([object])
+
+Getting Python Documentation Help : Python has a built-in help() function that can access this information and prints the results.
+
+Reopening the Python Program in IDLE: You can also open an existing Python file by selecting File → Open… in the menu bar. This will bring up your operating system's file browser. Then, you can find the Python file you want to open.
