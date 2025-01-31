@@ -1,0 +1,28 @@
+Steps to Installing Python
+Step 1: Go to www.python.org
+Step 2: Select ‘Downloads’ from the toolbar
+Step 3: Click on ‘Download Python 3.8.1’ or the latest version available
+Step 4: Then, go to the File option. After that, a security dialog box will appear as shown below. Click on ‘Run’ to continue the installation process
+Step 5: Click on ‘Install Now’
+Step 6: After the installation of Python, when you see a window with the message ‘Setup was successful’, click on the ‘Close’ button.
+
+How to check if Python is already installed or not.
+
+* Open Command Prompt > Type Python Or py > Hit Enter If Python Is Installed it will show the version Details
+* Just go in cmd and type where python if it installed it will open a prompt .
+
+Steps to Install PyCharm:
+
+Step 1: To download PyCharm, visit the official website of JetBrains: Download PyCharm
+Step 2: Click on the ‘Download’’ button
+Step 3: After that, you will see the below window with two options, Professional and Community
+Step 4: Download the Community version
+Note: If you are interested to work with the Professional version, then you can download the Professional version and avail a free trial.
+Step 5: After downloading the file, click on it
+Step 6: When the following window appears, click on Next and the installation process will start
+Step 7: After clicking on Next, first, a window for setting up the installation location will appear.
+Note: You can either select a folder for the installation location or retain the default path.
+Step 8: In the next step, you can set the Installation Options as per requirements, and then, click on the Next button to proceed
+Step 9: Now, you have to select the Start Menu folder, or you can leave it as default
+Step 10: After these steps, click on the Install button as above to start the installation process
+Step 11: When you click on the Finish button, your PyCharm installation completes.
